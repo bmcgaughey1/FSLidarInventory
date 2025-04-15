@@ -1,0 +1,146 @@
+{
+  "file_size": 53752513,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2021sUAS\\MGRA_EngContract2021/MGRA_PointCloud_1Foot_GroundOnly.las",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"unnamed + unknown\",LOCAL_CS[\"unnamed\",UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"unknown\",VERT_DATUM[\"unknown\",2005],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP]]]",
+    "compressed": false,
+    "copc": false,
+    "count": 2067389,
+    "creation_doy": 144,
+    "creation_year": 2021,
+    "dataformat_id": 2,
+    "dataoffset": 399,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): Undefined\n      GeogLinearUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      ProjLinearUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      VerticalUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 2518012.471,
+    "maxy": 2406751.822,
+    "maxz": 186.2264,
+    "minor_version": 2,
+    "minx": 2508031.255,
+    "miny": 2402974.425,
+    "minz": 56.6181,
+    "offset_x": 2516660,
+    "offset_y": 2404880,
+    "offset_z": 80,
+    "point_length": 26,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.0001,
+    "scale_y": 0.0001,
+    "scale_z": 0.0001,
+    "software_id": "TRW 2.22.0 2.2 r0 (130917)",
+    "spatialreference": "COMPD_CS[\"unnamed + unknown\",LOCAL_CS[\"unnamed\",UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"unknown\",VERT_DATUM[\"unknown\",2005],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"unnamed + unknown\",LOCAL_CS[\"unnamed\",UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"unknown\",VERT_DATUM[\"unknown\",2005],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP]]]",
+      "horizontal": "LOCAL_CS[\"unnamed\",UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "unnamed + unknown",
+  "components": [
+    {
+      "type": "EngineeringCRS",
+      "name": "unnamed",
+      "datum": {
+        "name": "Unknown engineering datum"
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219,
+              "id": {
+                "authority": "EPSG",
+                "code": 9003
+              }
+            }
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219,
+              "id": {
+                "authority": "EPSG",
+                "code": 9003
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "unknown",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "unknown"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Up",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219,
+              "id": {
+                "authority": "EPSG",
+                "code": 9003
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"unnamed + unknown\",\n    LOCAL_CS[\"unnamed\",\n        UNIT[\"US survey foot\",0.304800609601219,\n            AUTHORITY[\"EPSG\",\"9003\"]],\n        AXIS[\"Easting\",EAST],\n        AXIS[\"Northing\",NORTH]],\n    VERT_CS[\"unknown\",\n        VERT_DATUM[\"unknown\",2005],\n        UNIT[\"US survey foot\",0.304800609601219,\n            AUTHORITY[\"EPSG\",\"9003\"]],\n        AXIS[\"Up\",UP]]]",
+      "prettywkt": "LOCAL_CS[\"unnamed\",\n    UNIT[\"US survey foot\",0.304800609601219,\n        AUTHORITY[\"EPSG\",\"9003\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+      "proj4": "+vunits=us-ft +no_defs",
+      "units":
+      {
+        "horizontal": "US survey foot",
+        "vertical": "US survey foot"
+      },
+      "vertical": "VERT_CS[\"unknown\",VERT_DATUM[\"unknown\",2005],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP]]",
+      "wkt": "LOCAL_CS[\"unnamed\",UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+    },
+    "system_id": "Trimble",
+    "vlr_0":
+    {
+      "data": "AQABAAAABAAABAAAAQAAAAQIAAABACsjBAwAAAEAKyMDEAAAAQArIw==",
+      "description": "LASzip DLL 2.2 r0 (130917)",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_1":
+    {
+      "data": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "description": "TopoDOT Scanner Origin",
+      "record_id": 101,
+      "user_id": "Origin"
+    }
+  },
+  "now": "2025-04-08T10:29:29-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

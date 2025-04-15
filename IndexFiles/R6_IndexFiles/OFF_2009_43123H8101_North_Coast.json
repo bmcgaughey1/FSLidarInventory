@@ -1,0 +1,66 @@
+{
+  "file_size": 28989777,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\SIU_2008_2009_NorthCoast_ORlambert_feet\\1_LAZ/OFF_2009_43123H8101_North_Coast.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 5447457,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 329,
+    "filesource_id": 0,
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 395106.6,
+    "maxy": 839771.49,
+    "maxz": 822.11,
+    "minor_version": 1,
+    "minx": 391627.23,
+    "miny": 835206.27,
+    "minz": 4.59,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "",
+    "vlr_0":
+    {
+      "data": "AgAAAAIEAAAAAAAAUMMAAP////////////////////8CAAYAFAACAAcACAACAA==",
+      "description": "by laszip of LAStools (150803)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:18:26-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

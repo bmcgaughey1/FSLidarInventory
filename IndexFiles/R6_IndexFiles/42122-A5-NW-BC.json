@@ -1,0 +1,66 @@
+{
+  "file_size": 4257165,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\RRS_2006_Ashland\\1_LAZ/42122-A5-NW-BC.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 1030977,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 329,
+    "filesource_id": 0,
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 531090.21,
+    "maxy": 4661459.37,
+    "maxz": 1610.1,
+    "minor_version": 0,
+    "minx": 530911.49,
+    "miny": 4660237.04,
+    "minz": 1326.14,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "",
+    "vlr_0":
+    {
+      "data": "AgAAAAMEAwAAAAAAUMMAAP////////////////////8CAAYAFAACAAcACAACAA==",
+      "description": "by laszip of LAStools (210628)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:18:22-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

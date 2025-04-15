@@ -1,0 +1,75 @@
+{
+  "file_size": 15450838,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2021sUAS\\2021WrangellCityDroneLidar\\LiDAR Ground/01_ground.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 1286477,
+    "creation_doy": 165,
+    "creation_year": 2021,
+    "dataformat_id": 3,
+    "dataoffset": 585,
+    "filesource_id": 48,
+    "global_encoding": 1,
+    "global_encoding_base64": "AQA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 2944391,
+    "maxy": 1702768.625,
+    "maxz": 272.8800049,
+    "minor_version": 2,
+    "minx": 2943419,
+    "miny": 1701259,
+    "minz": -9.350000381,
+    "offset_x": 2947550,
+    "offset_y": 1700770,
+    "offset_z": 58.33,
+    "point_length": 42,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 1e-05,
+    "scale_y": 1e-05,
+    "scale_z": 1e-05,
+    "software_id": "PDAL 2.1.0 (828987)",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "PDAL",
+    "vlr_0":
+    {
+      "data": "AAAKAENvb3JkLiBaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "description": "Extra Bytes Record",
+      "record_id": 4,
+      "user_id": "LASF_Spec"
+    },
+    "vlr_1":
+    {
+      "data": "AgAAAAMEAwAAAAAAUMMAAP////////////////////8EAAYAFAACAAcACAACAAgABgACAAAACAACAA==",
+      "description": "http://laszip.org",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T10:32:32-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

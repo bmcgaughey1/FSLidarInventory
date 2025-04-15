@@ -1,0 +1,61 @@
+{
+  "file_size": 594513559,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\DES_2022_Cave/LRC_Mark_Entrace_2022-09-20_15pct_smoothing_scan.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 21232619,
+    "creation_doy": 269,
+    "creation_year": 2022,
+    "dataformat_id": 1,
+    "dataoffset": 227,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 138.6994,
+    "maxy": 258.1348,
+    "maxz": 51.5523,
+    "minor_version": 2,
+    "minx": -176.6646,
+    "miny": -148.7175,
+    "minz": -37.9164,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.0001,
+    "scale_y": 0.0001,
+    "scale_z": 0.0001,
+    "software_id": "GeoSLAM",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "libLAS"
+  },
+  "now": "2025-04-08T09:15:36-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

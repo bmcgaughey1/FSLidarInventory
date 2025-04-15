@@ -1,0 +1,59 @@
+{
+  "file_size": 84160921,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\WAW_2007_RiverCorridor_Yakima/46120D8201.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 3005739,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 229,
+    "filesource_id": 0,
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1533391.94,
+    "maxy": 425744.88,
+    "maxz": 3093.57,
+    "minor_version": 0,
+    "minx": 1530443.07,
+    "miny": 424011.13,
+    "minz": 2577.07,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": ""
+  },
+  "now": "2025-04-08T09:19:36-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

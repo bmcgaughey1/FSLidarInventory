@@ -1,0 +1,61 @@
+{
+  "file_size": 22708985,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\SIU_2010_OLC_YAMBO_2010_ORlambert_feet\\all_points\\off_forest/44123G6101.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 811027,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 229,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 473394.85,
+    "maxy": 1155745.97,
+    "maxz": 1864.73,
+    "minor_version": 2,
+    "minx": 470145.24,
+    "miny": 1155292.85,
+    "minz": 1336.12,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": ""
+  },
+  "now": "2025-04-08T09:18:38-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

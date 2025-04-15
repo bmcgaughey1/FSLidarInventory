@@ -1,0 +1,59 @@
+{
+  "file_size": 6090677,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\MAL_2007_Damon_UTM11_meters\\5_Other_Vendor_Products\\Points\\Ground_points/ground_bin001.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 217516,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 229,
+    "filesource_id": 0,
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 327000,
+    "maxy": 4886250,
+    "maxz": 1755.17,
+    "minor_version": 0,
+    "minx": 326730.63,
+    "miny": 4885367.01,
+    "minz": 1717.18,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": ""
+  },
+  "now": "2025-04-08T09:16:08-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

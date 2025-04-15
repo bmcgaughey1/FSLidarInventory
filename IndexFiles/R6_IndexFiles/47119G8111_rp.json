@@ -1,0 +1,250 @@
+{
+  "file_size": 46945410,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\OKW_2015_Chelan_WASP_South_feet\\1_LAZ/47119G8111_rp.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"NAD83 / Washington South + unknown\",PROJCS[\"NAD83 / Washington South\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",45.3333333333333],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",47.3333333333333],PARAMETER[\"standard_parallel_2\",45.8333333333333],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"9003\",\"EPSG\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"\",VERT_DATUM[\"unknown\",2005],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]]",
+    "compressed": true,
+    "copc": false,
+    "count": 5717437,
+    "creation_doy": 76,
+    "creation_year": 2016,
+    "dataformat_id": 3,
+    "dataoffset": 427,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeProjected\n      ProjectedCSTypeGeoKey (Short,1): PCS_NAD83_Washington_South\n      ProjLinearUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      VerticalUnitsGeoKey (Short,1): Linear_Foot\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1766309.41,
+    "maxy": 916480.36,
+    "maxz": 1418.37,
+    "minor_version": 2,
+    "minx": 1763221.3,
+    "miny": 913667.32,
+    "minz": 1199.44,
+    "offset_x": 1700000,
+    "offset_y": 900000,
+    "offset_z": 0,
+    "point_length": 34,
+    "project_id": "00000000-0000-0000-4368-656C616E0000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "las2las (version 161114)",
+    "spatialreference": "COMPD_CS[\"NAD83 / Washington South + unknown\",PROJCS[\"NAD83 / Washington South\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",45.3333333333333],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",47.3333333333333],PARAMETER[\"standard_parallel_2\",45.8333333333333],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"9003\",\"EPSG\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"\",VERT_DATUM[\"unknown\",2005],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"NAD83 / Washington South + unknown\",PROJCS[\"NAD83 / Washington South\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",45.3333333333333],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",47.3333333333333],PARAMETER[\"standard_parallel_2\",45.8333333333333],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"9003\",\"EPSG\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"\",VERT_DATUM[\"unknown\",2005],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]]",
+      "horizontal": "PROJCS[\"NAD83 / Washington South\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",45.3333333333333],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",47.3333333333333],PARAMETER[\"standard_parallel_2\",45.8333333333333],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"9003\",\"EPSG\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "NAD83 / Washington South + unknown",
+  "components": [
+    {
+      "type": "ProjectedCRS",
+      "name": "NAD83 / Washington South",
+      "base_crs": {
+        "name": "NAD83",
+        "datum": {
+          "type": "GeodeticReferenceFrame",
+          "name": "North American Datum 1983",
+          "ellipsoid": {
+            "name": "GRS 1980",
+            "semi_major_axis": 6378137,
+            "inverse_flattening": 298.257222101
+          }
+        },
+        "coordinate_system": {
+          "subtype": "ellipsoidal",
+          "axis": [
+            {
+              "name": "Geodetic latitude",
+              "abbreviation": "Lat",
+              "direction": "north",
+              "unit": "degree"
+            },
+            {
+              "name": "Geodetic longitude",
+              "abbreviation": "Lon",
+              "direction": "east",
+              "unit": "degree"
+            }
+          ]
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 4269
+        }
+      },
+      "conversion": {
+        "name": "unnamed",
+        "method": {
+          "name": "Lambert Conic Conformal (2SP)",
+          "id": {
+            "authority": "EPSG",
+            "code": 9802
+          }
+        },
+        "parameters": [
+          {
+            "name": "Latitude of false origin",
+            "value": 45.3333333333333,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8821
+            }
+          },
+          {
+            "name": "Longitude of false origin",
+            "value": -120.5,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8822
+            }
+          },
+          {
+            "name": "Latitude of 1st standard parallel",
+            "value": 47.3333333333333,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8823
+            }
+          },
+          {
+            "name": "Latitude of 2nd standard parallel",
+            "value": 45.8333333333333,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8824
+            }
+          },
+          {
+            "name": "Easting at false origin",
+            "value": 1640416.66666667,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8826
+            }
+          },
+          {
+            "name": "Northing at false origin",
+            "value": 0,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8827
+            }
+          }
+        ]
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219,
+              "id": {
+                "authority": "9003",
+                "code": "EPSG"
+              }
+            }
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219,
+              "id": {
+                "authority": "9003",
+                "code": "EPSG"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "unnamed",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "unknown"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Up",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048,
+              "id": {
+                "authority": "EPSG",
+                "code": 9002
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"NAD83 / Washington South + unknown\",\n    PROJCS[\"NAD83 / Washington South\",\n        GEOGCS[\"NAD83\",\n            DATUM[\"North_American_Datum_1983\",\n                SPHEROID[\"GRS 1980\",6378137,298.257222101,\n                    AUTHORITY[\"EPSG\",\"7019\"]],\n                AUTHORITY[\"EPSG\",\"6269\"]],\n            PRIMEM[\"Greenwich\",0,\n                AUTHORITY[\"EPSG\",\"8901\"]],\n            UNIT[\"degree\",0.0174532925199433,\n                AUTHORITY[\"EPSG\",\"9122\"]],\n            AUTHORITY[\"EPSG\",\"4269\"]],\n        PROJECTION[\"Lambert_Conformal_Conic_2SP\"],\n        PARAMETER[\"latitude_of_origin\",45.3333333333333],\n        PARAMETER[\"central_meridian\",-120.5],\n        PARAMETER[\"standard_parallel_1\",47.3333333333333],\n        PARAMETER[\"standard_parallel_2\",45.8333333333333],\n        PARAMETER[\"false_easting\",1640416.66666667],\n        PARAMETER[\"false_northing\",0],\n        UNIT[\"US survey foot\",0.304800609601219,\n            AUTHORITY[\"9003\",\"EPSG\"]],\n        AXIS[\"Easting\",EAST],\n        AXIS[\"Northing\",NORTH]],\n    VERT_CS[\"\",\n        VERT_DATUM[\"unknown\",2005],\n        UNIT[\"foot\",0.3048,\n            AUTHORITY[\"EPSG\",\"9002\"]],\n        AXIS[\"Up\",UP]]]",
+      "prettywkt": "PROJCS[\"NAD83 / Washington South\",\n    GEOGCS[\"NAD83\",\n        DATUM[\"North_American_Datum_1983\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101,\n                AUTHORITY[\"EPSG\",\"7019\"]],\n            AUTHORITY[\"EPSG\",\"6269\"]],\n        PRIMEM[\"Greenwich\",0,\n            AUTHORITY[\"EPSG\",\"8901\"]],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AUTHORITY[\"EPSG\",\"4269\"]],\n    PROJECTION[\"Lambert_Conformal_Conic_2SP\"],\n    PARAMETER[\"latitude_of_origin\",45.3333333333333],\n    PARAMETER[\"central_meridian\",-120.5],\n    PARAMETER[\"standard_parallel_1\",47.3333333333333],\n    PARAMETER[\"standard_parallel_2\",45.8333333333333],\n    PARAMETER[\"false_easting\",1640416.66666667],\n    PARAMETER[\"false_northing\",0],\n    UNIT[\"US survey foot\",0.304800609601219,\n        AUTHORITY[\"9003\",\"EPSG\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+      "proj4": "+proj=lcc +lat_0=45.3333333333333 +lon_0=-120.5 +lat_1=47.3333333333333 +lat_2=45.8333333333333 +x_0=500000.000000001 +y_0=0 +datum=NAD83 +units=us-ft +vunits=ft +no_defs",
+      "units":
+      {
+        "horizontal": "US survey foot",
+        "vertical": "US survey foot"
+      },
+      "vertical": "VERT_CS[,VERT_DATUM[\"unknown\",2005],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]",
+      "wkt": "PROJCS[\"NAD83 / Washington South\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",45.3333333333333],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",47.3333333333333],PARAMETER[\"standard_parallel_2\",45.8333333333333],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"9003\",\"EPSG\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH",
+    "vlr_0":
+    {
+      "data": "AQABAAAABAAABAAAAQABAAAMAAABAJV9BAwAAAEAKyMDEAAAAQAqIw==",
+      "description": "by LAStools of rapidlasso GmbH",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_1":
+    {
+      "data": "AgAAAAIEAQAAAAAAUMMAAP////////////////////8DAAYAFAACAAcACAACAAgABgACAA==",
+      "description": "by laszip of LAStools (161114)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:17:46-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

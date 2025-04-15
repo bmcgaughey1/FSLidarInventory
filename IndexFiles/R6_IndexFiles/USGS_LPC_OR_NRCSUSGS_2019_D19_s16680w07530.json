@@ -1,0 +1,266 @@
+{
+  "file_size": 552965,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\MAL_2019_NRCS_USGS_ORlambert_feet_3DEP\\1_LAZ/USGS_LPC_OR_NRCSUSGS_2019_D19_s16680w07530.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"NAD83(2011) / Oregon GIC Lambert (ft) + NAVD88 height (ft) - Geoid12B (ft)\",PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",GEOGCS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1116\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6318\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"false_easting\",1312335.958],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"X\",EAST],AXIS[\"Y\",NORTH],AUTHORITY[\"EPSG\",\"6557\"]],VERT_CS[\"NAVD88 height (ft) - Geoid12B (ft)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"8228\"]]]",
+    "compressed": true,
+    "copc": false,
+    "count": 111529,
+    "creation_doy": 238,
+    "creation_year": 2021,
+    "dataformat_id": 6,
+    "dataoffset": 1298,
+    "filesource_id": 0,
+    "global_encoding": 17,
+    "global_encoding_base64": "EQA=",
+    "header_size": 375,
+    "major_version": 1,
+    "maxx": 1671000,
+    "maxy": 755999.99,
+    "maxz": 4908.69,
+    "minor_version": 4,
+    "minx": 1670802.6,
+    "miny": 755262.98,
+    "minz": 4856.56,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 30,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "LiDAR Suite",
+    "spatialreference": "COMPD_CS[\"NAD83(2011) / Oregon GIC Lambert (ft) + NAVD88 height (ft) - Geoid12B (ft)\",PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",GEOGCS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1116\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6318\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"false_easting\",1312335.958],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"X\",EAST],AXIS[\"Y\",NORTH],AUTHORITY[\"EPSG\",\"6557\"]],VERT_CS[\"NAVD88 height (ft) - Geoid12B (ft)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"8228\"]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"NAD83(2011) / Oregon GIC Lambert (ft) + NAVD88 height (ft) - Geoid12B (ft)\",PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",GEOGCS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1116\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6318\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"false_easting\",1312335.958],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"X\",EAST],AXIS[\"Y\",NORTH],AUTHORITY[\"EPSG\",\"6557\"]],VERT_CS[\"NAVD88 height (ft) - Geoid12B (ft)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"8228\"]]]",
+      "horizontal": "PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",GEOGCS[\"NAD83(2011)\",DATUM[\"NAD83_National_Spatial_Reference_System_2011\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1116\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6318\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"false_easting\",1312335.958],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"X\",EAST],AXIS[\"Y\",NORTH],AUTHORITY[\"EPSG\",\"6557\"]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "NAD83(2011) / Oregon GIC Lambert (ft) + NAVD88 height (ft) - Geoid12B (ft)",
+  "components": [
+    {
+      "type": "ProjectedCRS",
+      "name": "NAD83(2011) / Oregon GIC Lambert (ft)",
+      "base_crs": {
+        "name": "NAD83(2011)",
+        "datum": {
+          "type": "GeodeticReferenceFrame",
+          "name": "NAD83 (National Spatial Reference System 2011)",
+          "ellipsoid": {
+            "name": "GRS 1980",
+            "semi_major_axis": 6378137,
+            "inverse_flattening": 298.257222101
+          }
+        },
+        "coordinate_system": {
+          "subtype": "ellipsoidal",
+          "axis": [
+            {
+              "name": "Geodetic latitude",
+              "abbreviation": "Lat",
+              "direction": "north",
+              "unit": "degree"
+            },
+            {
+              "name": "Geodetic longitude",
+              "abbreviation": "Lon",
+              "direction": "east",
+              "unit": "degree"
+            }
+          ]
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 6318
+        }
+      },
+      "conversion": {
+        "name": "unnamed",
+        "method": {
+          "name": "Lambert Conic Conformal (2SP)",
+          "id": {
+            "authority": "EPSG",
+            "code": 9802
+          }
+        },
+        "parameters": [
+          {
+            "name": "Latitude of 1st standard parallel",
+            "value": 43,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8823
+            }
+          },
+          {
+            "name": "Latitude of 2nd standard parallel",
+            "value": 45.5,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8824
+            }
+          },
+          {
+            "name": "Latitude of false origin",
+            "value": 41.75,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8821
+            }
+          },
+          {
+            "name": "Longitude of false origin",
+            "value": -120.5,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8822
+            }
+          },
+          {
+            "name": "Easting at false origin",
+            "value": 1312335.958,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8826
+            }
+          },
+          {
+            "name": "Northing at false origin",
+            "value": 0,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8827
+            }
+          }
+        ]
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "X",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            }
+          },
+          {
+            "name": "Y",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            }
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 6557
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "NAVD88 height (ft) - Geoid12B (ft)",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "North American Vertical Datum 1988"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Up",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            }
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 8228
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"NAD83(2011) / Oregon GIC Lambert (ft) + NAVD88 height (ft) - Geoid12B (ft)\",\n    PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",\n        GEOGCS[\"NAD83(2011)\",\n            DATUM[\"NAD83_National_Spatial_Reference_System_2011\",\n                SPHEROID[\"GRS 1980\",6378137,298.257222101,\n                    AUTHORITY[\"EPSG\",\"7019\"]],\n                AUTHORITY[\"EPSG\",\"1116\"]],\n            PRIMEM[\"Greenwich\",0,\n                AUTHORITY[\"EPSG\",\"8901\"]],\n            UNIT[\"degree\",0.0174532925199433,\n                AUTHORITY[\"EPSG\",\"9122\"]],\n            AUTHORITY[\"EPSG\",\"6318\"]],\n        PROJECTION[\"Lambert_Conformal_Conic_2SP\"],\n        PARAMETER[\"standard_parallel_1\",43],\n        PARAMETER[\"standard_parallel_2\",45.5],\n        PARAMETER[\"latitude_of_origin\",41.75],\n        PARAMETER[\"central_meridian\",-120.5],\n        PARAMETER[\"false_easting\",1312335.958],\n        PARAMETER[\"false_northing\",0],\n        UNIT[\"foot\",0.3048,\n            AUTHORITY[\"EPSG\",\"9002\"]],\n        AXIS[\"X\",EAST],\n        AXIS[\"Y\",NORTH],\n        AUTHORITY[\"EPSG\",\"6557\"]],\n    VERT_CS[\"NAVD88 height (ft) - Geoid12B (ft)\",\n        VERT_DATUM[\"North American Vertical Datum 1988\",2005,\n            AUTHORITY[\"EPSG\",\"5103\"]],\n        UNIT[\"foot\",0.3048,\n            AUTHORITY[\"EPSG\",\"9002\"]],\n        AXIS[\"Up\",UP],\n        AUTHORITY[\"EPSG\",\"8228\"]]]",
+      "prettywkt": "PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",\n    GEOGCS[\"NAD83(2011)\",\n        DATUM[\"NAD83_National_Spatial_Reference_System_2011\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101,\n                AUTHORITY[\"EPSG\",\"7019\"]],\n            AUTHORITY[\"EPSG\",\"1116\"]],\n        PRIMEM[\"Greenwich\",0,\n            AUTHORITY[\"EPSG\",\"8901\"]],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AUTHORITY[\"EPSG\",\"6318\"]],\n    PROJECTION[\"Lambert_Conformal_Conic_2SP\"],\n    PARAMETER[\"standard_parallel_1\",43],\n    PARAMETER[\"standard_parallel_2\",45.5],\n    PARAMETER[\"latitude_of_origin\",41.75],\n    PARAMETER[\"central_meridian\",-120.5],\n    PARAMETER[\"false_easting\",1312335.958],\n    PARAMETER[\"false_northing\",0],\n    UNIT[\"foot\",0.3048,\n        AUTHORITY[\"EPSG\",\"9002\"]],\n    AXIS[\"X\",EAST],\n    AXIS[\"Y\",NORTH],\n    AUTHORITY[\"EPSG\",\"6557\"]]",
+      "proj4": "+proj=lcc +lat_0=41.75 +lon_0=-120.5 +lat_1=43 +lat_2=45.5 +x_0=399999.9999984 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=ft +vunits=ft +no_defs",
+      "units":
+      {
+        "horizontal": "foot",
+        "vertical": "foot"
+      },
+      "vertical": "VERT_CS[\"NAVD88 height (ft) - Geoid12B (ft)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"8228\"]]",
+      "wkt": "PROJCS[\"NAD83(2011) / Oregon GIC Lambert (ft)\",GEOGCS[\"NAD83(2011)\",DATUM[\"NAD83_National_Spatial_Reference_System_2011\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1116\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6318\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"false_easting\",1312335.958],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"X\",EAST],AXIS[\"Y\",NORTH],AUTHORITY[\"EPSG\",\"6557\"]]"
+    },
+    "system_id": "Merge",
+    "vlr_0":
+    {
+      "data": "AQCYNEeV5IfWAQ==",
+      "description": "NIIRS10 Timestamp",
+      "record_id": 4,
+      "user_id": "NIIRS10"
+    },
+    "vlr_1":
+    {
+      "data": "AQCAggAAgIIAAH8q8QmAkIEECQAJAAEHAAA=",
+      "description": "NIIRS10 Tile Index",
+      "record_id": 1,
+      "user_id": "NIIRS10"
+    },
+    "vlr_2":
+    {
+      "data": "MAlOZXZlciBDbGFzc2lmaWUNCjEJRGVmYXVsdCwgVW5jbGFzDQoyCUdyb3VuZAAAAAAAAAAAAA0KMwlMb3cgdmVnZXRhdGlvbgANCjQJTWVkaXVtIHZlZ2V0YXRpDQo1CUhpZ2ggdmVnZXRhdGlvbg0KNglCdWlsZGluZwAAAAAAAAANCjcJTG93IHBvaW50IChub2lzDQo4CU1vZGVsIEtleQAAAAAAAA0KOQlXYXRlcgAAAAAAAAAAAAANCjEwCUlnbm9yZWQgR3JvdW5kAA0KMTEJV2l0aGhlbGQAAAAAAAAADQoxMglPdmVyRWRnZSBQb2ludHMNCjEzCVdoYXRldmVyX0NsYXNzAA0KMTQJQnJpZGdlAAAAAAAAAAAADQoxNQlQU0ktUG90ZW50aWFsX0cNCjE2CU92ZXJsYXBfTmV2ZXJfQw0KMTcJT3ZlcmxhcF9EZWZhdWx0DQoxOAlPdmVybGFwX0dyb3VuZAANCjE5CU92ZXJsYXBfTG93IFZlZw0KMjAJT3ZlcmxhcF9NZWRpdW0gDQoyMQlPdmVybGFwX0hpZ2ggVmUNCjIyCU92ZXJsYXBfQnVpbGRpbg0KMjMJT3ZlcmxhcF9Mb3cgcG9pDQoyNAlPdmVybGFwX01vZGVsIEsNCjI1CU92ZXJsYXBfV2F0ZXIAAA0KMjYJT3ZlcmxhcF9JZ25vcmVkDQoyNwlPdmVybGFwX1dpdGhoZWwNCjI4CU92ZXJsYXBfT3ZlckVkZw0KMjkJT3ZlcmxhcF9XaGF0ZXZlDQozMAlPdmVybGFwX0JyaWRnZQANCjMxCU92ZXJsYXBfUG90ZW50aQ0KAA==",
+      "description": "Classification Lookup",
+      "record_id": 0,
+      "user_id": "LASF_Spec"
+    },
+    "vlr_3":
+    {
+      "data": "AwAAAAMEAwAAAAAAUMMAAP////////////////////8BAAoAHgADAA==",
+      "description": "by laszip of LAStools (210720)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    },
+    "vlr_4":
+    {
+      "data": "Q09NUERfQ1NbIk5BRDgzKDIwMTEpIC8gT3JlZ29uIEdJQyBMYW1iZXJ0IChmdCkgKyBOQVZEODggaGVpZ2h0IChmdCkgLSBHZW9pZDEyQiAoZnQpIixQUk9KQ1NbIk5BRDgzKDIwMTEpIC8gT3JlZ29uIEdJQyBMYW1iZXJ0IChmdCkiLEdFT0dDU1siTkFEODMoMjAxMSkiLERBVFVNWyJOQUQ4MyAoTmF0aW9uYWwgU3BhdGlhbCBSZWZlcmVuY2UgU3lzdGVtIDIwMTEpIixTUEhFUk9JRFsiR1JTIDE5ODAiLDYzNzgxMzcsMjk4LjI1NzIyMjEwMSxBVVRIT1JJVFlbIkVQU0ciLCI3MDE5Il1dLEFVVEhPUklUWVsiRVBTRyIsIjExMTYiXV0sUFJJTUVNWyJHcmVlbndpY2giLDAsQVVUSE9SSVRZWyJFUFNHIiwiODkwMSJdXSxVTklUWyJkZWdyZWUiLDAuMDE3NDUzMjkyNTE5OTQzMyxBVVRIT1JJVFlbIkVQU0ciLCI5MTIyIl1dLEFVVEhPUklUWVsiRVBTRyIsIjYzMTgiXV0sUFJPSkVDVElPTlsiTGFtYmVydF9Db25mb3JtYWxfQ29uaWNfMlNQIl0sUEFSQU1FVEVSWyJzdGFuZGFyZF9wYXJhbGxlbF8xIiw0M10sUEFSQU1FVEVSWyJzdGFuZGFyZF9wYXJhbGxlbF8yIiw0NS41XSxQQVJBTUVURVJbImxhdGl0dWRlX29mX29yaWdpbiIsNDEuNzVdLFBBUkFNRVRFUlsiY2VudHJhbF9tZXJpZGlhbiIsLTEyMC41XSxQQVJBTUVURVJbImZhbHNlX2Vhc3RpbmciLDEzMTIzMzUuOTU4XSxQQVJBTUVURVJbImZhbHNlX25vcnRoaW5nIiwwXSxVTklUWyJmb290IiwwLjMwNDgsQVVUSE9SSVRZWyJFUFNHIiwiOTAwMiJdXSxBWElTWyJYIixFQVNUXSxBWElTWyJZIixOT1JUSF0sQVVUSE9SSVRZWyJFUFNHIiwiNjU1NyJdXSxWRVJUX0NTWyJOQVZEODggaGVpZ2h0IChmdCkgLSBHZW9pZDEyQiAoZnQpIixWRVJUX0RBVFVNWyJOb3J0aCBBbWVyaWNhbiBWZXJ0aWNhbCBEYXR1bSAxOTg4IiwyMDA1LEFVVEhPUklUWVsiRVBTRyIsIjUxMDMiXV0sVU5JVFsiZm9vdCIsMC4zMDQ4LEFVVEhPUklUWVsiRVBTRyIsIjkwMDIiXV0sQVhJU1siVXAiLFVQXSxBVVRIT1JJVFlbIkVQU0ciLCI4MjI4Il1dXQA=",
+      "description": "WKT Projection",
+      "record_id": 2112,
+      "user_id": "LASF_Projection"
+    }
+  },
+  "now": "2025-04-08T09:16:29-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

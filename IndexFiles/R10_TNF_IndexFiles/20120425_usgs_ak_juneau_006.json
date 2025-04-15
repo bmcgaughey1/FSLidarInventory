@@ -1,0 +1,146 @@
+{
+  "file_size": 7829110,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2012Juneau_USGS_NOAA\\PointCloudTiles\\LAZ/20120425_usgs_ak_juneau_006.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"NAD83 + NAVD88 height\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4269\"]],VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]],AUTHORITY[\"EPSG\",\"5498\"]]",
+    "compressed": true,
+    "copc": false,
+    "count": 1691464,
+    "creation_doy": 294,
+    "creation_year": 2012,
+    "dataformat_id": 1,
+    "dataoffset": 575,
+    "filesource_id": 0,
+    "global_encoding": 1,
+    "global_encoding_base64": "AQA=",
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeGeographic\n      GeographicTypeGeoKey (Short,1): GCS_NAD83\n      GeogAngularUnitsGeoKey (Short,1): Angular_Degree\n      VerticalCSTypeGeoKey (Short,1): Code-5703 (NAVD88 height)\n      VerticalUnitsGeoKey (Short,1): Linear_Meter\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": -134.2768707,
+    "maxy": 58.2431582,
+    "maxz": 298.911,
+    "minor_version": 2,
+    "minx": -134.2932499,
+    "miny": 58.2347673,
+    "minz": 2.862,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 1e-07,
+    "scale_y": 1e-07,
+    "scale_z": 0.001,
+    "software_id": "lasduplicate (160119) commercia",
+    "spatialreference": "COMPD_CS[\"NAD83 + NAVD88 height\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4269\"]],VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]],AUTHORITY[\"EPSG\",\"5498\"]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"NAD83 + NAVD88 height\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4269\"]],VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]],AUTHORITY[\"EPSG\",\"5498\"]]",
+      "horizontal": "GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4269\"]]",
+      "isgeocentric": false,
+      "isgeographic": true,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "NAD83 + NAVD88 height",
+  "components": [
+    {
+      "type": "GeographicCRS",
+      "name": "NAD83",
+      "datum": {
+        "type": "GeodeticReferenceFrame",
+        "name": "North American Datum 1983",
+        "ellipsoid": {
+          "name": "GRS 1980",
+          "semi_major_axis": 6378137,
+          "inverse_flattening": 298.257222101
+        }
+      },
+      "coordinate_system": {
+        "subtype": "ellipsoidal",
+        "axis": [
+          {
+            "name": "Geodetic latitude",
+            "abbreviation": "Lat",
+            "direction": "north",
+            "unit": "degree"
+          },
+          {
+            "name": "Geodetic longitude",
+            "abbreviation": "Lon",
+            "direction": "east",
+            "unit": "degree"
+          }
+        ]
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "NAVD88 height",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "North American Vertical Datum 1988"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Gravity-related height",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": "metre"
+          }
+        ]
+      }
+    }
+  ],
+  "id": {
+    "authority": "EPSG",
+    "code": 5498
+  }
+},
+      "prettycompoundwkt": "COMPD_CS[\"NAD83 + NAVD88 height\",\n    GEOGCS[\"NAD83\",\n        DATUM[\"North_American_Datum_1983\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101,\n                AUTHORITY[\"EPSG\",\"7019\"]],\n            AUTHORITY[\"EPSG\",\"6269\"]],\n        PRIMEM[\"Greenwich\",0,\n            AUTHORITY[\"EPSG\",\"8901\"]],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AXIS[\"Latitude\",NORTH],\n        AXIS[\"Longitude\",EAST],\n        AUTHORITY[\"EPSG\",\"4269\"]],\n    VERT_CS[\"NAVD88 height\",\n        VERT_DATUM[\"North American Vertical Datum 1988\",2005,\n            AUTHORITY[\"EPSG\",\"5103\"]],\n        UNIT[\"metre\",1,\n            AUTHORITY[\"EPSG\",\"9001\"]],\n        AXIS[\"Gravity-related height\",UP],\n        AUTHORITY[\"EPSG\",\"5703\"]],\n    AUTHORITY[\"EPSG\",\"5498\"]]",
+      "prettywkt": "GEOGCS[\"NAD83\",\n    DATUM[\"North_American_Datum_1983\",\n        SPHEROID[\"GRS 1980\",6378137,298.257222101,\n            AUTHORITY[\"EPSG\",\"7019\"]],\n        AUTHORITY[\"EPSG\",\"6269\"]],\n    PRIMEM[\"Greenwich\",0,\n        AUTHORITY[\"EPSG\",\"8901\"]],\n    UNIT[\"degree\",0.0174532925199433,\n        AUTHORITY[\"EPSG\",\"9122\"]],\n    AXIS[\"Latitude\",NORTH],\n    AXIS[\"Longitude\",EAST],\n    AUTHORITY[\"EPSG\",\"4269\"]]",
+      "proj4": "+proj=longlat +datum=NAD83 +vunits=m +no_defs",
+      "units":
+      {
+        "horizontal": "metre",
+        "vertical": "metre"
+      },
+      "vertical": "VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]]",
+      "wkt": "GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4269\"]]"
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH",
+    "vlr_0":
+    {
+      "data": "AQBUzk2zd2XNAQ==",
+      "description": "NIIRS10 Timestamp",
+      "record_id": 4,
+      "user_id": "NIIRS10"
+    },
+    "vlr_1":
+    {
+      "data": "AQAJOAAAYSEAAJGODgNprI8mAQABAHwDAAA=",
+      "description": "NIIRS10 Tile Index",
+      "record_id": 1,
+      "user_id": "NIIRS10"
+    },
+    "vlr_2":
+    {
+      "data": "AQABAAAABQAABAAAAQACAAAIAAABAK0QBggAAAEAjiMAEAAAAQBHFgMQAAABACkj",
+      "description": "Projection Parameters",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_3":
+    {
+      "data": "AgAAAAIEAQAAAAAAUMMAAP////////////////////8CAAYAFAACAAcACAACAA==",
+      "description": "by laszip of LAStools (160110)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T10:29:19-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

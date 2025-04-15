@@ -1,0 +1,154 @@
+{
+  "file_size": 5723612,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\UMP_2017_DiamondLake_usfsAlbers_meters\\1_LAZ/LAZ_UMPDLK_402000_1033500_20170707.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"unnamed + NAVD88 height\",LOCAL_CS[\"unnamed\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]]]",
+    "compressed": true,
+    "copc": false,
+    "count": 900328,
+    "creation_doy": 293,
+    "creation_year": 2020,
+    "dataformat_id": 1,
+    "dataoffset": 1510,
+    "filesource_id": 0,
+    "global_encoding": 1,
+    "global_encoding_base64": "AQA=",
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeProjected\n      GTRasterTypeGeoKey (Short,1): RasterPixelIsArea\n      ProjectedCSTypeGeoKey (Short,1): User-Defined\n      ProjLinearUnitsGeoKey (Short,1): Linear_Meter\n      VerticalCSTypeGeoKey (Short,1): Code-5703 (NAVD88 height)\n      VerticalDatumGeoKey (Short,1): Code-5103 (North American Vertical Datum 1988)\n      VerticalUnitsGeoKey (Short,1): Linear_Meter\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 403499.99,
+    "maxy": 1034999.99,
+    "maxz": 1674.42,
+    "minor_version": 2,
+    "minx": 403378.52,
+    "miny": 1033826.5,
+    "minz": 1530.7,
+    "offset_x": 403378.506020095,
+    "offset_y": 1033825.65908349,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.001,
+    "scale_y": 0.001,
+    "scale_z": 0.001,
+    "software_id": "GeoCue",
+    "spatialreference": "COMPD_CS[\"unnamed + NAVD88 height\",LOCAL_CS[\"unnamed\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"unnamed + NAVD88 height\",LOCAL_CS[\"unnamed\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]]]",
+      "horizontal": "LOCAL_CS[\"unnamed\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "unnamed + NAVD88 height",
+  "components": [
+    {
+      "type": "EngineeringCRS",
+      "name": "unnamed",
+      "datum": {
+        "name": "Unknown engineering datum"
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": "metre"
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": "metre"
+          }
+        ]
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "NAVD88 height",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "North American Vertical Datum 1988"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Gravity-related height",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": "metre"
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 5703
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"unnamed + NAVD88 height\",\n    LOCAL_CS[\"unnamed\",\n        UNIT[\"metre\",1,\n            AUTHORITY[\"EPSG\",\"9001\"]],\n        AXIS[\"Easting\",EAST],\n        AXIS[\"Northing\",NORTH]],\n    VERT_CS[\"NAVD88 height\",\n        VERT_DATUM[\"North American Vertical Datum 1988\",2005,\n            AUTHORITY[\"EPSG\",\"5103\"]],\n        UNIT[\"metre\",1,\n            AUTHORITY[\"EPSG\",\"9001\"]],\n        AXIS[\"Gravity-related height\",UP],\n        AUTHORITY[\"EPSG\",\"5703\"]]]",
+      "prettywkt": "LOCAL_CS[\"unnamed\",\n    UNIT[\"metre\",1,\n        AUTHORITY[\"EPSG\",\"9001\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+      "proj4": "+vunits=m +no_defs",
+      "units":
+      {
+        "horizontal": "metre",
+        "vertical": "metre"
+      },
+      "vertical": "VERT_CS[\"NAVD88 height\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5703\"]]",
+      "wkt": "LOCAL_CS[\"unnamed\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+    },
+    "system_id": "ALS70",
+    "vlr_0":
+    {
+      "data": "Kp+NXwAAAAA=",
+      "description": "Local Time: 2020 10 19 09 14 02",
+      "record_id": 8,
+      "user_id": "ESRI_Export"
+    },
+    "vlr_1":
+    {
+      "data": "AQABAAAABwAABAAAAQABAAEEAAABAAEAAAwAAAEA/38EDAAAAQApIwAQAAABAEcWAhAAAAEA7xMDEAAAAQApI4gMsIcBAAIACAywhwEAAwAKDLCHAQAEAAsMsIcBAAUABAwAAAEAKSMGCAAAAQCOIwcIsIcBAAYAAAgAAAEArRACCAAAAQB9GAgIAAABAGsbAwgAAAEAxSIJCLCHAQAHAAsIsIcBAAgADQiwhwEACQACBLGHIwAAAAEIsYdqACMAAQyxh9wBjQA=",
+      "description": "",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_2":
+    {
+      "data": "UENTIE5hbWUgPSBOQURfMTk4M19VU0ZTX1I2X0FsYmVycwBHQ1MgTmFtZSA9IEdDU19Ob3J0aF9BbWVyaWNhbl8xOTgzfERhdHVtID0gRF9Ob3J0aF9BbWVyaWNhbl8xOTgzfEVsbGlwc29pZCA9IEdSU18xOTgwfFByaW1lbSA9IEdyZWVud2ljaHwARVNSSSBQRSBTdHJpbmcgPSBQUk9KQ1NbIk5BRF8xOTgzX1VTRlNfUjZfQWxiZXJzIixHRU9HQ1NbIkdDU19Ob3J0aF9BbWVyaWNhbl8xOTgzIixEQVRVTVsiRF9Ob3J0aF9BbWVyaWNhbl8xOTgzIixTUEhFUk9JRFsiR1JTXzE5ODAiLDYzNzgxMzcuMCwyOTguMjU3MjIyMTAxXV0sUFJJTUVNWyJHcmVlbndpY2giLDAuMF0sVU5JVFsiRGVncmVlIiwwLjAxNzQ1MzI5MjUxOTk0MzNdXSxQUk9KRUNUSU9OWyJBbGJlcnMiXSxQQVJBTUVURVJbIkZhbHNlX0Vhc3RpbmciLDYwMDAwMC4wXSxQQVJBTUVURVJbIkZhbHNlX05vcnRoaW5nIiwwLjBdLFBBUkFNRVRFUlsiY2VudHJhbF9tZXJpZGlhbiIsLTEyMC4wXSxQQVJBTUVURVJbIlN0YW5kYXJkX1BhcmFsbGVsXzEiLDQzLjBdLFBBUkFNRVRFUlsiU3RhbmRhcmRfUGFyYWxsZWxfMiIsNDguMF0sUEFSQU1FVEVSWyJsYXRpdHVkZV9vZl9vcmlnaW4iLDM0LjBdLFVOSVRbIk1ldGVyIiwxLjBdXQA=",
+      "description": "",
+      "record_id": 34737,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_3":
+    {
+      "data": "AAAAAACARUAAAAAAAABIQAAAAAAAAEFAAAAAAAAAXsAAAAAAgE8iQQAAAAAAAAAAOp1SokbfkT8AAABAplRYQaj565QdpHJAAAAAAAAAAAA=",
+      "description": "",
+      "record_id": 34736,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_4":
+    {
+      "data": "LgSIXwAAAAA=",
+      "description": "Local Time: 2020 10 15 03 11 26",
+      "record_id": 1,
+      "user_id": "ESRI_Export"
+    },
+    "vlr_5":
+    {
+      "data": "AgAAAAMDAQAAAAAAUMMAAP////////////////////8CAAYAFAACAAcACAACAA==",
+      "description": "by laszip of LAStools (190321)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:19:13-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

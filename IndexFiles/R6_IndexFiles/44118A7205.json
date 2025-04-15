@@ -1,0 +1,59 @@
+{
+  "file_size": 237966321,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\MAL_2008_2009_MalheurRiver_ORlambert_feet\\5_Other_Vendor_Products\\MALHEUR_DELIVERY_1_FINAL\\POINTS\\ALL_POINTS\\replaced_From_delivery2/44118A7205.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 8498789,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 229,
+    "filesource_id": 0,
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1771466.41,
+    "maxy": 870591.5,
+    "maxz": 5668.87,
+    "minor_version": 1,
+    "minx": 1768446.23,
+    "miny": 865977.82,
+    "minz": 5142.43,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": ""
+  },
+  "now": "2025-04-08T09:16:13-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

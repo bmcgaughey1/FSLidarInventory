@@ -1,0 +1,61 @@
+{
+  "file_size": 32400727,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2000_03_TNF_3Di\\JRD\\class\\hobarts\\lasdata\\NAD83\\veg/hobarts_veg.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 1620025,
+    "creation_doy": 72,
+    "creation_year": 2003,
+    "dataformat_id": 0,
+    "dataoffset": 227,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 2779657,
+    "maxy": 2044397.13,
+    "maxz": 3982.62,
+    "minor_version": 2,
+    "minx": 2772292.25,
+    "miny": 2039084.25,
+    "minz": 850.64,
+    "offset_x": 2700000,
+    "offset_y": 2000000,
+    "offset_z": 0,
+    "point_length": 20,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "txt2las (version 210720)",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH"
+  },
+  "now": "2025-04-08T10:25:35-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

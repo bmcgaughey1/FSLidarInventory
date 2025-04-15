@@ -1,0 +1,75 @@
+{
+  "file_size": 9377833,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\OLY_2017_usfsAlbers_meters\\OLY_2017_usfsAlbers_meters/FPC_OLYNOR_369000_1548000_20171029.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 1358654,
+    "creation_doy": 123,
+    "creation_year": 2018,
+    "dataformat_id": 1,
+    "dataoffset": 773,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 370499.99,
+    "maxy": 1549499.99,
+    "maxz": 1017.57,
+    "minor_version": 2,
+    "minx": 369309.69,
+    "miny": 1549444.57,
+    "minz": 614.24,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 32,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "lasheight (161114) unlicensed",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH",
+    "vlr_0":
+    {
+      "data": "AAADD0FtcGxpdHVkZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEVjaG8gc2lnbmFsIGFtcGxpdHVkZSBbZEJdAAAAAAAAAAADDlB1bHNlIHdpZHRoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEZ1bGwgd2lkdGggYXQgaGFsZiBtYXhpbXVtIFtuc10A",
+      "description": "RIEGL Extra Bytes",
+      "record_id": 4,
+      "user_id": "LASF_Spec"
+    },
+    "vlr_1":
+    {
+      "data": "AgAAAAIEAAAAAAAAUMMAAP////////////////////8DAAYAFAACAAcACAACAAAABAACAA==",
+      "description": "by laszip of LAStools (150803)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:18:20-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

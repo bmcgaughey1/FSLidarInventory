@@ -1,0 +1,61 @@
+{
+  "file_size": 1684287,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2000_03_TNF_3Di\\PRD\\PRD\\kake\\LASFILES\\NAD83\\Ground_points/kake_PFSR_road_Ground_points_1.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 84203,
+    "creation_doy": 223,
+    "creation_year": 2021,
+    "dataformat_id": 0,
+    "dataoffset": 227,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 2660271.79,
+    "maxy": 1856397.89,
+    "maxz": 611.4,
+    "minor_version": 2,
+    "minx": 2656643.53,
+    "miny": 1847634.48,
+    "minz": 18.74,
+    "offset_x": 2600000,
+    "offset_y": 1800000,
+    "offset_z": 0,
+    "point_length": 20,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "txt2las (version 210720)",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH"
+  },
+  "now": "2025-04-08T10:28:21-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

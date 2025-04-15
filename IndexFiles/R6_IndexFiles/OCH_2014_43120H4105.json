@@ -1,0 +1,260 @@
+{
+  "file_size": 16118173,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\OCH_2014_CrookedRiver_ORlambert_feet\\1_LAZ/OCH_2014_43120H4105.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"NAD83 / Oregon LCC (m) + unknown\",PROJCS[\"NAD83 / Oregon LCC (m)\",GEOGCS[\"NAD83\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"false_easting\",1312335.95800525],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2991\"]],VERT_CS[\"NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]]",
+    "compressed": true,
+    "copc": false,
+    "count": 2513154,
+    "creation_doy": 290,
+    "creation_year": 2014,
+    "dataformat_id": 3,
+    "dataoffset": 658,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeProjected\n      GTRasterTypeGeoKey (Short,1): RasterPixelIsPoint\n      GeogGeodeticDatumGeoKey (Short,1): User-Defined\n      GeogEllipsoidGeoKey (Short,1): Ellipse_GRS_1980\n      ProjectedCSTypeGeoKey (Short,1): Code-2991 (NAD83 / Oregon LCC (m))\n      ProjLinearUnitsGeoKey (Short,1): Linear_Foot\n      VerticalCitationGeoKey (Ascii,145): \"NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)\"\n      VerticalUnitsGeoKey (Short,1): Linear_Foot\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1328785.76,
+    "maxy": 820152.49,
+    "maxz": 5287.11,
+    "minor_version": 2,
+    "minx": 1328016.21,
+    "miny": 815639.11,
+    "minz": 4670.8,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 34,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "LasMonkey 1.7.2",
+    "spatialreference": "COMPD_CS[\"NAD83 / Oregon LCC (m) + unknown\",PROJCS[\"NAD83 / Oregon LCC (m)\",GEOGCS[\"NAD83\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"false_easting\",1312335.95800525],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2991\"]],VERT_CS[\"NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"NAD83 / Oregon LCC (m) + unknown\",PROJCS[\"NAD83 / Oregon LCC (m)\",GEOGCS[\"NAD83\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"false_easting\",1312335.95800525],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2991\"]],VERT_CS[\"NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]]",
+      "horizontal": "PROJCS[\"NAD83 / Oregon LCC (m)\",GEOGCS[\"NAD83\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"false_easting\",1312335.95800525],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2991\"]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "NAD83 / Oregon LCC (m) + unknown",
+  "components": [
+    {
+      "type": "ProjectedCRS",
+      "name": "NAD83 / Oregon LCC (m)",
+      "base_crs": {
+        "name": "NAD83",
+        "datum": {
+          "type": "GeodeticReferenceFrame",
+          "name": "unnamed",
+          "ellipsoid": {
+            "name": "GRS 1980",
+            "semi_major_axis": 6378137,
+            "inverse_flattening": 298.257222101004
+          }
+        },
+        "coordinate_system": {
+          "subtype": "ellipsoidal",
+          "axis": [
+            {
+              "name": "Geodetic latitude",
+              "abbreviation": "Lat",
+              "direction": "north",
+              "unit": "degree"
+            },
+            {
+              "name": "Geodetic longitude",
+              "abbreviation": "Lon",
+              "direction": "east",
+              "unit": "degree"
+            }
+          ]
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 4269
+        }
+      },
+      "conversion": {
+        "name": "unnamed",
+        "method": {
+          "name": "Lambert Conic Conformal (2SP)",
+          "id": {
+            "authority": "EPSG",
+            "code": 9802
+          }
+        },
+        "parameters": [
+          {
+            "name": "Latitude of false origin",
+            "value": 41.75,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8821
+            }
+          },
+          {
+            "name": "Longitude of false origin",
+            "value": -120.5,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8822
+            }
+          },
+          {
+            "name": "Latitude of 1st standard parallel",
+            "value": 43,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8823
+            }
+          },
+          {
+            "name": "Latitude of 2nd standard parallel",
+            "value": 45.5,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8824
+            }
+          },
+          {
+            "name": "Easting at false origin",
+            "value": 1312335.95800525,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8826
+            }
+          },
+          {
+            "name": "Northing at false origin",
+            "value": 0,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8827
+            }
+          }
+        ]
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            }
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048
+            }
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 2991
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "North American Vertical Datum 1988",
+        "id": {
+          "authority": "EPSG",
+          "code": 5103
+        }
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Up",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "foot",
+              "conversion_factor": 0.3048,
+              "id": {
+                "authority": "EPSG",
+                "code": 9002
+              }
+            }
+          }
+        ]
+      },
+      "geoid_model": {
+        "name": "GEOID12A"
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"NAD83 / Oregon LCC (m) + unknown\",\n    PROJCS[\"NAD83 / Oregon LCC (m)\",\n        GEOGCS[\"NAD83\",\n            DATUM[\"unnamed\",\n                SPHEROID[\"GRS 1980\",6378137,298.257222101004,\n                    AUTHORITY[\"EPSG\",\"7019\"]]],\n            PRIMEM[\"Greenwich\",0],\n            UNIT[\"degree\",0.0174532925199433,\n                AUTHORITY[\"EPSG\",\"9122\"]],\n            AUTHORITY[\"EPSG\",\"4269\"]],\n        PROJECTION[\"Lambert_Conformal_Conic_2SP\"],\n        PARAMETER[\"latitude_of_origin\",41.75],\n        PARAMETER[\"central_meridian\",-120.5],\n        PARAMETER[\"standard_parallel_1\",43],\n        PARAMETER[\"standard_parallel_2\",45.5],\n        PARAMETER[\"false_easting\",1312335.95800525],\n        PARAMETER[\"false_northing\",0],\n        UNIT[\"foot\",0.3048,\n            AUTHORITY[\"EPSG\",\"9002\"]],\n        AXIS[\"Easting\",EAST],\n        AXIS[\"Northing\",NORTH],\n        AUTHORITY[\"EPSG\",\"2991\"]],\n    VERT_CS[\"NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)\",\n        VERT_DATUM[\"North American Vertical Datum 1988\",2005,\n            AUTHORITY[\"EPSG\",\"5103\"]],\n        UNIT[\"foot\",0.3048,\n            AUTHORITY[\"EPSG\",\"9002\"]],\n        AXIS[\"Up\",UP]]]",
+      "prettywkt": "PROJCS[\"NAD83 / Oregon LCC (m)\",\n    GEOGCS[\"NAD83\",\n        DATUM[\"unnamed\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101004,\n                AUTHORITY[\"EPSG\",\"7019\"]]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AUTHORITY[\"EPSG\",\"4269\"]],\n    PROJECTION[\"Lambert_Conformal_Conic_2SP\"],\n    PARAMETER[\"latitude_of_origin\",41.75],\n    PARAMETER[\"central_meridian\",-120.5],\n    PARAMETER[\"standard_parallel_1\",43],\n    PARAMETER[\"standard_parallel_2\",45.5],\n    PARAMETER[\"false_easting\",1312335.95800525],\n    PARAMETER[\"false_northing\",0],\n    UNIT[\"foot\",0.3048,\n        AUTHORITY[\"EPSG\",\"9002\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH],\n    AUTHORITY[\"EPSG\",\"2991\"]]",
+      "proj4": "+proj=lcc +lat_0=41.75 +lon_0=-120.5 +lat_1=43 +lat_2=45.5 +x_0=400000 +y_0=0 +ellps=GRS80 +units=ft +vunits=ft +no_defs",
+      "units":
+      {
+        "horizontal": "foot",
+        "vertical": "foot"
+      },
+      "vertical": "VERT_CS[\"NAVD88 via Geoid12a on NAD83; Height Model: US Geoid Model of 2012 a (based on NAD83); Vertical Datum: US Geoid Model of 2012 a (based on NAD83)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Up\",UP]]",
+      "wkt": "PROJCS[\"NAD83 / Oregon LCC (m)\",GEOGCS[\"NAD83\",DATUM[\"unnamed\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",41.75],PARAMETER[\"central_meridian\",-120.5],PARAMETER[\"standard_parallel_1\",43],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"false_easting\",1312335.95800525],PARAMETER[\"false_northing\",0],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2991\"]]"
+    },
+    "system_id": "Quantum Spatial",
+    "vlr_0":
+    {
+      "data": "AQABAAAACAAABAAAAQABAAEEAAABAAIAAggAAAEA/38ICAAAAQBrGwAMAAABAK8LBAwAAAEAKiMBELGHkQAAAAMQAAABACoj",
+      "description": "Georeferencing Information",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_1":
+    {
+      "data": "TkFWRDg4IHZpYSBHZW9pZDEyYSBvbiBOQUQ4MzsgSGVpZ2h0IE1vZGVsOiBVUyBHZW9pZCBNb2RlbCBvZiAyMDEyIGEgKGJhc2VkIG9uIE5BRDgzKTsgVmVydGljYWwgRGF0dW06IFVTIEdlb2lkIE1vZGVsIG9mIDIwMTIgYSAoYmFzZWQgb24gTkFEODMpfA==",
+      "description": "Georeferencing Parameters",
+      "record_id": 34737,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_2":
+    {
+      "data": "AgAAAAIEAAAAAAAAUMMAAP////////////////////8DAAYAFAACAAcACAACAAgABgACAA==",
+      "description": "by laszip of LAStools (150803)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:17:27-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

@@ -1,0 +1,61 @@
+{
+  "file_size": 3609287,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2000_03_TNF_3Di\\POW\\elcap_road\\lasdata\\NAD83\\veg_points/elcap_road_raw_data_points_1.las",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": false,
+    "copc": false,
+    "count": 180453,
+    "creation_doy": 222,
+    "creation_year": 2021,
+    "dataformat_id": 0,
+    "dataoffset": 227,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 2776643.05,
+    "maxy": 1569034.39,
+    "maxz": 1084.26,
+    "minor_version": 2,
+    "minx": 2772550.52,
+    "miny": 1565246.4,
+    "minz": 461.15,
+    "offset_x": 2700000,
+    "offset_y": 1500000,
+    "offset_z": 0,
+    "point_length": 20,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "txt2las (version 210720)",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH"
+  },
+  "now": "2025-04-08T10:27:07-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

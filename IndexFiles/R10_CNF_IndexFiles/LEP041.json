@@ -1,0 +1,256 @@
+{
+  "file_size": 32988862,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_cnf\\RSImagery\\Geo\\DEM\\LIDAR\\2008_Kenai_LiDAR\\Area_F\\Point_Cloud_LAS/LEP041.las",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"NAD83 / Alaska zone 4 + unknown\",PROJCS[\"NAD83 / Alaska zone 4\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",54],PARAMETER[\"central_meridian\",-150],PARAMETER[\"scale_factor\",0.9999],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26934\"]],VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]]",
+    "compressed": false,
+    "copc": false,
+    "count": 1178141,
+    "creation_doy": 15,
+    "creation_year": 2010,
+    "dataformat_id": 1,
+    "dataoffset": 914,
+    "filesource_id": 0,
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeProjected\n      GeographicTypeGeoKey (Short,1): GCS_NAD83\n      GeogCitationGeoKey (Ascii,24): \"GCS_North_American_1983\"\n      GeogGeodeticDatumGeoKey (Short,1): Datum_North_American_Datum_1983\n      GeogPrimeMeridianGeoKey (Short,1): PM_Greenwich\n      GeogAngularUnitsGeoKey (Short,1): Angular_Degree\n      GeogAngularUnitSizeGeoKey (Double,1): 0.0174532925199433\n      GeogEllipsoidGeoKey (Short,1): Ellipse_GRS_1980\n      GeogSemiMajorAxisGeoKey (Double,1): 6378137          \n      GeogInvFlatteningGeoKey (Double,1): 298.257222101    \n      GeogPrimeMeridianLongGeoKey (Double,1): 0                \n      ProjectedCSTypeGeoKey (Short,1): PCS_NAD83_Alaska_zone_4\n      PCSCitationGeoKey (Ascii,44): \"NAD_1983_StatePlane_Alaska_4_FIPS_5004_Feet\"\n      ProjCoordTransGeoKey (Short,1): CT_TransverseMercator\n      ProjLinearUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      ProjLinearUnitSizeGeoKey (Double,1): 0.304800609601219\n      ProjNatOriginLatGeoKey (Double,1): 54               \n      ProjFalseEastingGeoKey (Double,1): 1640416.66666667 \n      ProjFalseNorthingGeoKey (Double,1): 0                \n      ProjCenterLongGeoKey (Double,1): -150             \n      ProjScaleAtNatOriginGeoKey (Double,1): 0.9999           \n      VerticalCitationGeoKey (Ascii,38): \"NAVD88 - Geoid06 (Alaska only) (Feet)\"\n      VerticalUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1610016.32,
+    "maxy": 2409158.54,
+    "maxz": 1336.32,
+    "minor_version": 1,
+    "minx": 1606035.25,
+    "miny": 2405000,
+    "minz": 1132.21,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "COMPD_CS[\"NAD83 / Alaska zone 4 + unknown\",PROJCS[\"NAD83 / Alaska zone 4\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",54],PARAMETER[\"central_meridian\",-150],PARAMETER[\"scale_factor\",0.9999],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26934\"]],VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"NAD83 / Alaska zone 4 + unknown\",PROJCS[\"NAD83 / Alaska zone 4\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",54],PARAMETER[\"central_meridian\",-150],PARAMETER[\"scale_factor\",0.9999],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26934\"]],VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]]",
+      "horizontal": "PROJCS[\"NAD83 / Alaska zone 4\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",54],PARAMETER[\"central_meridian\",-150],PARAMETER[\"scale_factor\",0.9999],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26934\"]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "NAD83 / Alaska zone 4 + unknown",
+  "components": [
+    {
+      "type": "ProjectedCRS",
+      "name": "NAD83 / Alaska zone 4",
+      "base_crs": {
+        "name": "NAD83",
+        "datum": {
+          "type": "GeodeticReferenceFrame",
+          "name": "North American Datum 1983",
+          "ellipsoid": {
+            "name": "GRS 1980",
+            "semi_major_axis": 6378137,
+            "inverse_flattening": 298.257222101004
+          }
+        },
+        "coordinate_system": {
+          "subtype": "ellipsoidal",
+          "axis": [
+            {
+              "name": "Geodetic latitude",
+              "abbreviation": "Lat",
+              "direction": "north",
+              "unit": "degree"
+            },
+            {
+              "name": "Geodetic longitude",
+              "abbreviation": "Lon",
+              "direction": "east",
+              "unit": "degree"
+            }
+          ]
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 4269
+        }
+      },
+      "conversion": {
+        "name": "unnamed",
+        "method": {
+          "name": "Transverse Mercator",
+          "id": {
+            "authority": "EPSG",
+            "code": 9807
+          }
+        },
+        "parameters": [
+          {
+            "name": "Latitude of natural origin",
+            "value": 54,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8801
+            }
+          },
+          {
+            "name": "Longitude of natural origin",
+            "value": -150,
+            "unit": "degree",
+            "id": {
+              "authority": "EPSG",
+              "code": 8802
+            }
+          },
+          {
+            "name": "Scale factor at natural origin",
+            "value": 0.9999,
+            "unit": "unity",
+            "id": {
+              "authority": "EPSG",
+              "code": 8805
+            }
+          },
+          {
+            "name": "False easting",
+            "value": 1640416.66666667,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8806
+            }
+          },
+          {
+            "name": "False northing",
+            "value": 0,
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8807
+            }
+          }
+        ]
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            }
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            }
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 26934
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "NAVD88 height (ftUS)",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "North American Vertical Datum 1988"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Up",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            }
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 6360
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"NAD83 / Alaska zone 4 + unknown\",\n    PROJCS[\"NAD83 / Alaska zone 4\",\n        GEOGCS[\"NAD83\",\n            DATUM[\"North_American_Datum_1983\",\n                SPHEROID[\"GRS 1980\",6378137,298.257222101004,\n                    AUTHORITY[\"EPSG\",\"7019\"]],\n                AUTHORITY[\"EPSG\",\"6269\"]],\n            PRIMEM[\"Greenwich\",0],\n            UNIT[\"degree\",0.0174532925199433,\n                AUTHORITY[\"EPSG\",\"9122\"]],\n            AUTHORITY[\"EPSG\",\"4269\"]],\n        PROJECTION[\"Transverse_Mercator\"],\n        PARAMETER[\"latitude_of_origin\",54],\n        PARAMETER[\"central_meridian\",-150],\n        PARAMETER[\"scale_factor\",0.9999],\n        PARAMETER[\"false_easting\",1640416.66666667],\n        PARAMETER[\"false_northing\",0],\n        UNIT[\"US survey foot\",0.304800609601219,\n            AUTHORITY[\"EPSG\",\"9003\"]],\n        AXIS[\"Easting\",EAST],\n        AXIS[\"Northing\",NORTH],\n        AUTHORITY[\"EPSG\",\"26934\"]],\n    VERT_CS[\"NAVD88 height (ftUS)\",\n        VERT_DATUM[\"North American Vertical Datum 1988\",2005,\n            AUTHORITY[\"EPSG\",\"5103\"]],\n        UNIT[\"US survey foot\",0.304800609601219,\n            AUTHORITY[\"EPSG\",\"9003\"]],\n        AXIS[\"Up\",UP],\n        AUTHORITY[\"EPSG\",\"6360\"]]]",
+      "prettywkt": "PROJCS[\"NAD83 / Alaska zone 4\",\n    GEOGCS[\"NAD83\",\n        DATUM[\"North_American_Datum_1983\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101004,\n                AUTHORITY[\"EPSG\",\"7019\"]],\n            AUTHORITY[\"EPSG\",\"6269\"]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AUTHORITY[\"EPSG\",\"4269\"]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",54],\n    PARAMETER[\"central_meridian\",-150],\n    PARAMETER[\"scale_factor\",0.9999],\n    PARAMETER[\"false_easting\",1640416.66666667],\n    PARAMETER[\"false_northing\",0],\n    UNIT[\"US survey foot\",0.304800609601219,\n        AUTHORITY[\"EPSG\",\"9003\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH],\n    AUTHORITY[\"EPSG\",\"26934\"]]",
+      "proj4": "+proj=tmerc +lat_0=54 +lon_0=-150 +k=0.9999 +x_0=500000.000000001 +y_0=0 +datum=NAD83 +units=us-ft +vunits=us-ft +no_defs",
+      "units":
+      {
+        "horizontal": "US survey foot",
+        "vertical": "US survey foot"
+      },
+      "vertical": "VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]",
+      "wkt": "PROJCS[\"NAD83 / Alaska zone 4\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101004,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",54],PARAMETER[\"central_meridian\",-150],PARAMETER[\"scale_factor\",0.9999],PARAMETER[\"false_easting\",1640416.66666667],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26934\"]]"
+    },
+    "system_id": "",
+    "vlr_0":
+    {
+      "data": "AQABAAAAFwAABAAAAQABAAAIAAABAK0QAQixhxgAUgACCAAAAQB9GAMIAAABAMUiBggAAAEAjiMHCLCHAQAJAAgIAAABAGsbCQiwhwEABgALCLCHAQAHAA0IsIcBAAgAAAwAAAEANmkBDLGHLAAAAAMMAAABAAEABAwAAAEAKyMFDLCHAQAFAAkMsIcBAAQACgywhwEAAAALDLCHAQABABAMsIcBAAIAFAywhwEAAwABELGHJgAsAAMQAAABACsj",
+      "description": "GeoTiff Projection Keys",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_1":
+    {
+      "data": "qqqqquAHOUEAAAAAAAAAAAAAAAAAwGLAHqfoSC7/7z8AAAAAAABLQDxwgmragdM/AAAAQKZUWEGo+euUHaRyQAAAAAAAAAAAOZ1SokbfkT8=",
+      "description": "GeoTiff double parameters",
+      "record_id": 34736,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_2":
+    {
+      "data": "TkFEXzE5ODNfU3RhdGVQbGFuZV9BbGFza2FfNF9GSVBTXzUwMDRfRmVldHxOQVZEODggLSBHZW9pZDA2IChBbGFza2Egb25seSkgKEZlZXQpfEdDU19Ob3J0aF9BbWVyaWNhbl8xOTgzfAA=",
+      "description": "GeoTiff ASCII parameters",
+      "record_id": 34737,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_3":
+    {
+      "data": "AQC1KdBvA5TKAQ==",
+      "description": "NIIRS10 Timestamp",
+      "record_id": 4,
+      "user_id": "NIIRS10"
+    },
+    "vlr_4":
+    {
+      "data": "AQAAnAAAAJwAAG/MkQkwqF8OEQARAJIDAAA=",
+      "description": "NIIRS10 Tile Index",
+      "record_id": 1,
+      "user_id": "NIIRS10"
+    }
+  },
+  "now": "2025-04-08T11:56:57-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

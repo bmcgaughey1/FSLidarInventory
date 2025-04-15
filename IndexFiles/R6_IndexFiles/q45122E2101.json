@@ -1,0 +1,75 @@
+{
+  "file_size": 178969723,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\GIP_2017_SWWA_Foothills_WASP_South_feet\\1_LAZ/q45122E2101.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 34243731,
+    "creation_doy": 269,
+    "creation_year": 2017,
+    "dataformat_id": 6,
+    "dataoffset": 571,
+    "filesource_id": 0,
+    "global_encoding": 17,
+    "global_encoding_base64": "EQA=",
+    "header_size": 375,
+    "major_version": 1,
+    "maxx": 1195883.23,
+    "maxy": 111327.39,
+    "maxz": 1117.94,
+    "minor_version": 4,
+    "minx": 1192584.78,
+    "miny": 106699.81,
+    "minz": -7.35,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 30,
+    "project_id": "00000000-0000-0000-5765-737457410000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "las2las (version 180605)",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "LAStools (c) by rapidlasso GmbH",
+    "vlr_0":
+    {
+      "data": "AQABAAAABQAABAAAAQABAAAMAAABAJV9BAwAAAEAKyMDEAAAAQAqIwAQAAABAO8T",
+      "description": "by LAStools of rapidlasso GmbH",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_1":
+    {
+      "data": "AwAAAAMCAwAAAAAAUMMAAP////////////////////8BAAoAHgADAA==",
+      "description": "by laszip of LAStools (180605)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:16:05-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

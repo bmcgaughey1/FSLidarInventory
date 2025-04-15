@@ -1,0 +1,80 @@
+{
+  "file_size": 9563719,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\MBS_2006_USGS_LiDAR_MTB_SNQ\\1_LAZ/MBS_2006_PS0100.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 2145420,
+    "creation_doy": 0,
+    "creation_year": 0,
+    "dataformat_id": 1,
+    "dataoffset": 473,
+    "filesource_id": 0,
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1333269.99,
+    "maxy": 733251.99,
+    "maxz": 1789.25,
+    "minor_version": 0,
+    "minx": 1330270,
+    "miny": 730252,
+    "minz": 583.27,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "",
+    "vlr_0":
+    {
+      "data": "AQCmSwHNgMLGAQ==",
+      "description": "NIIRS10 Timestamp",
+      "record_id": 4,
+      "user_id": "NIIRS10"
+    },
+    "vlr_1":
+    {
+      "data": "AQAAegEAAHoBAJZo8gexRloEBAAEAHUBAAA=",
+      "description": "NIIRS10 Tile Index",
+      "record_id": 1,
+      "user_id": "NIIRS10"
+    },
+    "vlr_2":
+    {
+      "data": "AgAAAAIEAAAAAAAAUMMAAP////////////////////8CAAYAFAACAAcACAACAA==",
+      "description": "by laszip of LAStools (150803)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:16:43-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

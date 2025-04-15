@@ -1,0 +1,75 @@
+{
+  "file_size": 982282,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\MBS_GIP_2010_Pierce_WASP_South_feet\\1_LAZ/10587100.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 251992,
+    "creation_doy": 153,
+    "creation_year": 2011,
+    "dataformat_id": 1,
+    "dataoffset": 382,
+    "filesource_id": 0,
+    "global_encoding": 1,
+    "global_encoding_base64": "AQA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 1060923.01,
+    "maxy": 710000.97,
+    "maxz": 161.48,
+    "minor_version": 2,
+    "minx": 1058001.03,
+    "miny": 707001.01,
+    "minz": -47.41,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-2020-202020202020",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "LiDAR Feature Extraction (LFEx) ",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "Watershed Sciences - ALS        ",
+    "vlr_0":
+    {
+      "data": "",
+      "description": "FIPS 4602 - U.S. Survey Feet    ",
+      "record_id": 32149,
+      "user_id": "LASF_Projection "
+    },
+    "vlr_1":
+    {
+      "data": "AgAAAAIBAAAAAAAAUMMAAP////////////////////8CAAYAFAACAAcACAACAA==",
+      "description": "by laszip of LAStools (120612)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:17:00-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

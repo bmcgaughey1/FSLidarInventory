@@ -1,0 +1,151 @@
+{
+  "file_size": 467770939,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r10_tnf\\RSImagery\\Geo\\DEM\\LiDAR\\2010sDOTLidar\\KAKE_ACCESS_LIDAR\\01_LAS_Data/2007_Kake_Road_01.las",
+  "metadata":
+  {
+    "comp_spatialreference": "COMPD_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin + unknown\",LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]]",
+    "compressed": false,
+    "copc": false,
+    "count": 16706070,
+    "creation_doy": 23,
+    "creation_year": 2013,
+    "dataformat_id": 1,
+    "dataoffset": 979,
+    "filesource_id": 0,
+    "global_encoding": 0,
+    "global_encoding_base64": "AAA=",
+    "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeProjected\n      GeographicTypeGeoKey (Short,1): GCS_NAD83\n      GeogCitationGeoKey (Ascii,6): \"NAD83\"\n      GeogGeodeticDatumGeoKey (Short,1): Datum_North_American_Datum_1983\n      GeogPrimeMeridianGeoKey (Short,1): PM_Greenwich\n      GeogAngularUnitsGeoKey (Short,1): Angular_Degree\n      GeogAngularUnitSizeGeoKey (Double,1): 0.0174532925199433\n      GeogEllipsoidGeoKey (Short,1): Ellipse_GRS_1980\n      GeogSemiMajorAxisGeoKey (Double,1): 6378137          \n      GeogInvFlatteningGeoKey (Double,1): 298.257222101004 \n      GeogPrimeMeridianLongGeoKey (Double,1): 0                \n      ProjectedCSTypeGeoKey (Short,1): User-Defined\n      PCSCitationGeoKey (Ascii,103): \"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\"\n      ProjectionGeoKey (Short,1): User-Defined\n      ProjCoordTransGeoKey (Short,1): User-Defined\n      ProjLinearUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      ProjLinearUnitSizeGeoKey (Double,1): 0.304800609601219\n      ProjFalseEastingGeoKey (Double,1): 16404166.6666667 \n      ProjFalseNorthingGeoKey (Double,1): -16404166.6666667\n      ProjCenterLongGeoKey (Double,1): -133.666666666667\n      ProjCenterLatGeoKey (Double,1): 57               \n      ProjScaleAtCenterGeoKey (Double,1): 0.9999           \n      ProjAzimuthAngleGeoKey (Double,1): -36.8698976458333\n      VerticalCitationGeoKey (Ascii,38): \"NAVD88 - Geoid12 (Alaska Only) (Feet)\"\n      VerticalUnitsGeoKey (Short,1): Linear_Foot_US_Survey\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 2651367.06,
+    "maxy": 1870968.85,
+    "maxz": 512.85,
+    "minor_version": 2,
+    "minx": 2639112.37,
+    "miny": 1866713.15,
+    "minz": -1.939,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 28,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "Aero-Metric LASLib              ",
+    "spatialreference": "COMPD_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin + unknown\",LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]]",
+    "srs":
+    {
+      "compoundwkt": "COMPD_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin + unknown\",LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]],VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]]",
+      "horizontal": "LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json": {
+  "type": "CompoundCRS",
+  "name": "NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin + unknown",
+  "components": [
+    {
+      "type": "EngineeringCRS",
+      "name": "NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin",
+      "datum": {
+        "name": "Unknown engineering datum"
+      },
+      "coordinate_system": {
+        "subtype": "Cartesian",
+        "axis": [
+          {
+            "name": "Easting",
+            "abbreviation": "",
+            "direction": "east",
+            "unit": "metre"
+          },
+          {
+            "name": "Northing",
+            "abbreviation": "",
+            "direction": "north",
+            "unit": "metre"
+          }
+        ]
+      }
+    },
+    {
+      "type": "VerticalCRS",
+      "name": "NAVD88 height (ftUS)",
+      "datum": {
+        "type": "VerticalReferenceFrame",
+        "name": "North American Vertical Datum 1988"
+      },
+      "coordinate_system": {
+        "subtype": "vertical",
+        "axis": [
+          {
+            "name": "Up",
+            "abbreviation": "",
+            "direction": "up",
+            "unit": {
+              "type": "LinearUnit",
+              "name": "US survey foot",
+              "conversion_factor": 0.304800609601219
+            }
+          }
+        ]
+      },
+      "id": {
+        "authority": "EPSG",
+        "code": 6360
+      }
+    }
+  ]
+},
+      "prettycompoundwkt": "COMPD_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin + unknown\",\n    LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",\n        UNIT[\"metre\",1,\n            AUTHORITY[\"EPSG\",\"9001\"]],\n        AXIS[\"Easting\",EAST],\n        AXIS[\"Northing\",NORTH]],\n    VERT_CS[\"NAVD88 height (ftUS)\",\n        VERT_DATUM[\"North American Vertical Datum 1988\",2005,\n            AUTHORITY[\"EPSG\",\"5103\"]],\n        UNIT[\"US survey foot\",0.304800609601219,\n            AUTHORITY[\"EPSG\",\"9003\"]],\n        AXIS[\"Up\",UP],\n        AUTHORITY[\"EPSG\",\"6360\"]]]",
+      "prettywkt": "LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",\n    UNIT[\"metre\",1,\n        AUTHORITY[\"EPSG\",\"9001\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+      "proj4": "+vunits=us-ft +no_defs",
+      "units":
+      {
+        "horizontal": "metre",
+        "vertical": "metre"
+      },
+      "vertical": "VERT_CS[\"NAVD88 height (ftUS)\",VERT_DATUM[\"North American Vertical Datum 1988\",2005,AUTHORITY[\"EPSG\",\"5103\"]],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Up\",UP],AUTHORITY[\"EPSG\",\"6360\"]]",
+      "wkt": "LOCAL_CS[\"NAD_1983_StatePlane_Alaska_1_FIPS_5001_Feet|projection: Hotine_Oblique_Mercator_Azimuth_Natural_Origin\",UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+    },
+    "system_id": "MODIFICATION                    ",
+    "vlr_0":
+    {
+      "data": "AQABAAAAGQAABAAAAQABAAAIAAABAK0QAQixhwYAjQACCAAAAQB9GAMIAAABAMUiBggAAAEAjiMHCLCHAQAKAAgIAAABAGsbCQiwhwEABwALCLCHAQAIAA0IsIcBAAkAAAwAAAEA/38BDLGHZwAAAAIMAAABAP9/AwwAAAEA/38EDAAAAQArIwUMsIcBAAYACgywhwEAAAALDLCHAQABABAMsIcBAAIAEQywhwEAAwAVDLCHAQAEABYMsIcBAAUAARCxhyYAZwADEAAAAQArIw==",
+      "description": "GeoTiff Projection Keys",
+      "record_id": 34735,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_1":
+    {
+      "data": "Z1VV1dhJb0FnVVXV2ElvwWFVVVVVtWDAAAAAAACATEAep+hILv/vP1fcWc5Yb0LAPHCCatqB0z8AAABAplRYQfH565QdpHJAAAAAAAAAAAA0nVKiRt+RPw==",
+      "description": "GeoTiff double parameters",
+      "record_id": 34736,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_2":
+    {
+      "data": "TkFEXzE5ODNfU3RhdGVQbGFuZV9BbGFza2FfMV9GSVBTXzUwMDFfRmVldHxwcm9qZWN0aW9uOiBIb3RpbmVfT2JsaXF1ZV9NZXJjYXRvcl9BemltdXRoX05hdHVyYWxfT3JpZ2lufE5BVkQ4OCAtIEdlb2lkMTIgKEFsYXNrYSBPbmx5KSAoRmVldCl8TkFEODN8AA==",
+      "description": "GeoTiff ASCII parameters",
+      "record_id": 34737,
+      "user_id": "LASF_Projection"
+    },
+    "vlr_3":
+    {
+      "data": "AQDxpTmVjvfNAQ==",
+      "description": "NIIRS10 Timestamp",
+      "record_id": 4,
+      "user_id": "NIIRS10"
+    },
+    "vlr_4":
+    {
+      "data": "AQCAagAAgGoAAET3ug823yYLLQAQANMDAAA=",
+      "description": "NIIRS10 Tile Index",
+      "record_id": 1,
+      "user_id": "NIIRS10"
+    }
+  },
+  "now": "2025-04-08T10:29:06-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}

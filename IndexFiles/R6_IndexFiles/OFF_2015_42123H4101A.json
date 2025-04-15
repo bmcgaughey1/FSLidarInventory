@@ -1,0 +1,68 @@
+{
+  "file_size": 77492410,
+  "filename": "T:\\FS\\Reference\\RSImagery\\ProcessedData\\r06\\R06_DRM_Deliverables\\PointCloud\\UMP_SIU_2015_OLC_UPPER_UMPQUA_ORlambert_feet\\1_LAZ\\Off_Forest/OFF_2015_42123H4101A.laz",
+  "metadata":
+  {
+    "comp_spatialreference": "",
+    "compressed": true,
+    "copc": false,
+    "count": 8326781,
+    "creation_doy": 188,
+    "creation_year": 2016,
+    "dataformat_id": 3,
+    "dataoffset": 335,
+    "filesource_id": 0,
+    "global_encoding": 1,
+    "global_encoding_base64": "AQA=",
+    "header_size": 227,
+    "major_version": 1,
+    "maxx": 511620.54,
+    "maxy": 470348.07,
+    "maxz": 2152.69,
+    "minor_version": 2,
+    "minx": 509866.6,
+    "miny": 468010.96,
+    "minz": 1731.56,
+    "offset_x": 0,
+    "offset_y": 0,
+    "offset_z": 0,
+    "point_length": 34,
+    "project_id": "00000000-0000-0000-0000-000000000000",
+    "scale_x": 0.01,
+    "scale_y": 0.01,
+    "scale_z": 0.01,
+    "software_id": "TerraScan",
+    "spatialreference": "",
+    "srs":
+    {
+      "compoundwkt": "",
+      "horizontal": "",
+      "isgeocentric": false,
+      "isgeographic": false,
+      "json":
+      {
+      },
+      "prettycompoundwkt": "",
+      "prettywkt": "",
+      "proj4": "",
+      "units":
+      {
+        "horizontal": "unknown",
+        "vertical": ""
+      },
+      "vertical": "",
+      "wkt": ""
+    },
+    "system_id": "",
+    "vlr_0":
+    {
+      "data": "AgAAAAIEAAAAAAAAUMMAAP////////////////////8DAAYAFAACAAcACAACAAgABgACAA==",
+      "description": "by laszip of LAStools (150803)",
+      "record_id": 22204,
+      "user_id": "laszip encoded"
+    }
+  },
+  "now": "2025-04-08T09:19:19-0400",
+  "pdal_version": "2.8.4 (git-version: Release)",
+  "reader": "readers.las"
+}
