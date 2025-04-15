@@ -39,10 +39,11 @@ library(terra)
 library(tools)
 library(jsonlite)
 
-folder <- "H:/R6_IndexFiles"
-folder <- "h:/R10_TNF_IndexFiles"
-folder <- "h:/R10_CNF_IndexFiles"
-folder <- "H:/R3_IndexFiles"
+if (region == "R6_Tdrive") folder <- "IndexFiles/R6_IndexFiles"
+if (region == "R10_Tongass_Tdrive") folder <- "IndexFiles/R10_TNF_IndexFiles"
+if (region == "R10_Chugach_Tdrive") folder <- "IndexFiles/R10_CNF_IndexFiles"
+if (region == "R3") folder <- "IndexFiles/R3_IndexFiles"
+if (region == "R1") folder <- "IndexFiles/R1_IndexFiles"
 
 commandFile <- "data/PDAL_commands.bat"
 

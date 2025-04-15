@@ -1,35 +1,44 @@
 # ***** this is the code that actually builds the index files. It gets run for each area or parent folder
 # See addCRS.R for the post-processing steps to deal with missing CRS.
 #
-# you have to get the list of folders with point files using the ScanLocalFiles program (compiled C++)
-# for R3 data stored on GTAC NAS and mounted as Q:, this is the command:
-#    ScanLocalFiles.exe q: "*.las|*.laz" R3_FileList.csv 25
+# you have to get the list of folders (folderList variable) with point files
+# using the ScanLocalFiles program (compiled C++) for R3 data stored on GTAC NAS
+# and mounted as Q:, this is the command: ScanLocalFiles.exe q: "*.las|*.laz"
+# R3_FileList.csv 25
 #
-# The C++ function that reads file headers cannot make sense of CRS information contained in geoTIFF
-# tags. The code in addCRS.R builds PDAL commands that read file headers for a single file in 
-# each folder, sorts out CRS information (if present in WKT or geoTIFF tags), and assigns the CRS
-# to index files. PDAL has much more robust code for dealing with the CRS information.
-#
+# The C++ function that reads file headers cannot make sense of CRS information
+# contained in geoTIFF tags. The code in addCRS.R builds PDAL commands that read
+# file headers for a single file in each folder, sorts out CRS information (if
+# present in WKT or geoTIFF tags), and assigns the CRS to index files. PDAL has
+# much more robust code for dealing with the CRS information.
+# 
 library(LidarIndexR)
 library(tools)
 
-outputFolder <- "h:\\R6_IndexFiles\\"
-rootFolder <- "T:/FS/Reference/RSImagery/ProcessedData/r06/R06_DRM_Deliverables/PointCloud/"
-folderList <- "data/TDrive_R6_FileList.csv"
-summaryCSVFile <- "Documents/R6_IndexEntries.csv"
-# outputFolder <- "h:\\R10_TNF_IndexFiles\\"
-# rootFolder <- "T:/FS/Reference/RSImagery/ProcessedData/r10_tnf/RSImagery/Geo/DEM/LiDAR/"
-# folderList <- "data/R10_TNF_FileList.csv"
-# summaryCSVFile <- "Documents/R10_TNF_IndexEntries.csv"
-# outputFolder <- "h:\\R10_CNF_IndexFiles\\"
-# rootFolder <- "T:/FS/Reference/RSImagery/ProcessedData/r10_cnf/RSImagery/Geo/DEM/LIDAR/"
-# folderList <- "data/R10_CNF_FileList.csv"
-# summaryCSVFile <- "Documents/R10_CNF_IndexEntries.csv"
-# outputFolder <- "h:\\R3_IndexFiles\\"
-# rootFolder <- "q:"
-# folderList <- "data/R3_FileList.csv"
-# summaryCSVFile <- "Documents/R3_IndexEntries.csv"
-
+if (region == "R6_Tdrive") {
+  outputFolder <- "IndexFiles\\R6_IndexFiles\\"
+  rootFolder <- "T:/FS/Reference/RSImagery/ProcessedData/r06/R06_DRM_Deliverables/PointCloud/"
+  folderList <- "data/TDrive_R6_FileList.csv"
+  summaryCSVFile <- "Documents/R6_IndexEntries.csv"
+}
+if (region == "R10_Tongass_Tdrive") {
+  outputFolder <- "IndexFiles\\R10_TNF_IndexFiles\\"
+  rootFolder <- "T:/FS/Reference/RSImagery/ProcessedData/r10_tnf/RSImagery/Geo/DEM/LiDAR/"
+  folderList <- "data/R10_TNF_FileList.csv"
+  summaryCSVFile <- "Documents/R10_TNF_IndexEntries.csv"
+}
+if (region == "R10_Chugach_Tdrive") {
+  outputFolder <- "IndexFiles\\R10_CNF_IndexFiles\\"
+  rootFolder <- "T:/FS/Reference/RSImagery/ProcessedData/r10_cnf/RSImagery/Geo/DEM/LIDAR/"
+  folderList <- "data/R10_CNF_FileList.csv"
+  summaryCSVFile <- "Documents/R10_CNF_IndexEntries.csv"
+}
+if (region == "R3") {
+  outputFolder <- "IndexFiles\\R3_IndexFiles\\"
+  rootFolder <- "q:"
+  folderList <- "data/R3_FileList.csv"
+  summaryCSVFile <- "Documents/R3_IndexEntries.csv"
+}
 slashReplacement <- "_][_"
 
 if (!dir.exists(outputFolder)) {dir.create(outputFolder)}
@@ -123,10 +132,11 @@ for (file in files) {
 
 
 
-# folder <- "H:/R6_IndexFiles"
-# folder <- "h:/R10_TNF_IndexFiles"
-# folder <- "h:/R10_CNF_IndexFiles"
-# folder <- "H:/R3_IndexFiles"
+# if (region == "R6_Tdrive") folder <- "IndexFiles/R6_IndexFiles"
+# if (region == "R10_Tongass_Tdrive") folder <- "IndexFiles/R10_TNF_IndexFiles"
+# if (region == "R10_Chugach_Tdrive") folder <- "IndexFiles/R10_CNF_IndexFiles"
+# if (region == "R3") folder <- "IndexFiles/R3_IndexFiles"
+# if (region == "R1") folder <- "IndexFiles/R1_IndexFiles"
 # 
 # files <- list.files(folder, "\\.gpkg", full.names = TRUE, ignore.case = TRUE)
 # 

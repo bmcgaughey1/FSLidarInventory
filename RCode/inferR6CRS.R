@@ -1,20 +1,21 @@
 # code to deal with missing CRS for R6 lidar index files
 #
-# strategy is to read index files and look for files that don't have CRS ($hasCRS == FALSE)
-# for index files without CRS, look at folder name to see if "magic" strings are 
-# included to provide a clue. If so, assign CRS and add new field (assignedCRS)
-# with the WKT for the new CRS.
+# strategy is to read index files and look for files that don't have CRS
+# ($hasCRS == FALSE) for index files without CRS, look at folder name to see if
+# "magic" strings are included to provide a clue. If so, assign CRS and add new
+# field (assignedCRS) with the WKT for the new CRS.
 #
 # This also means I need to add the new field to index files that have CRS but
-# set value to a blank string. Not a big deal but does mean all index files
-# will be touched and rewritten.
+# set value to a blank string. Not a big deal but does mean all index files will
+# be touched and rewritten.
 #
 # I think this code is only useful for R6 index files. Other regions do not have
-# projects labeled with CRS information or whether or not data are also held in 3DEP.
+# projects labeled with CRS information or whether or not data are also held in
+# 3DEP.
 #
 library(terra)
 
-folder <- "H:/R6_IndexFiles"
+folder <- "IndexFiles/R6_IndexFiles"
 
 files <- list.files(folder, "\\.gpkg", full.names = TRUE, ignore.case = TRUE)
 
