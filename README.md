@@ -9,6 +9,12 @@ from GitHub. There are installation instructions on the repo homepage. Note that
 package installation requires Rtools to compile the C++ code to read LAS/LAZ
 file headers.
 
+This code also relies on the ScanLocalFiles program from this [repo](https://github.com/bmcgaughey1/ScanLocalFiles). This is a 
+C++ program that recursively scans a directory trees and check to see if each folder
+contains point data (LAS/LAZ/COPC). It should be possible to duplicate this capability
+in R, python or powershell but I used C++ to take advantage of functions that find
+the first occurrence of a file type without listing all occurrences of the file type.
+
 The Documents folder has related documents and the attributes for the index
 files as CSV files (also included in the index files). The [Word
 document](https://github.com/bmcgaughey1/FSLidarInventory/blob/aa9511825fdf4b06f3545911d951751f0003fc54/Documents/Forest%20Service%20Lidar%20Indexing%20Project.docx)
